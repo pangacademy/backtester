@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.2.2
+pandas_ta==0.3.14b0
+dash==2.17.1
+dash_iconify==0.1.2
+dash_mantine_components==0.14.4
+Flask==3.0.3
+plotly==5.22.0
+python-dotenv==1.0.1
